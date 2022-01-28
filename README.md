@@ -1,6 +1,3 @@
-# DNSRecordsDumper
-A dns records dump tool | DNS记录转储工具
-
 ```python
 
   _____  _   _  _____   _____                        _       _____                                  
@@ -12,3 +9,4 @@ A dns records dump tool | DNS记录转储工具
                                                                                    | |              
                                                                                    |_|              
 ```
+A dns records dump tool | DNS记录转储工具
